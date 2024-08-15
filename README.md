@@ -1,1 +1,1 @@
-# CapstoneAI-Enhanced
+# Capstone-AI
